@@ -1,0 +1,29 @@
+# python
+lib/
+
+# Autogen by Android Studio
+/captures
+
+# built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# OSX files
+.DS_Store
+
+# Android Studio
+*.iml
+.idea/
+.idea/*
+.idea/modules.xml
+*gradle*
+#*.gradle
+gradle/
+.gradle/
+build/
